@@ -20,7 +20,8 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
 4. *Financial Report Dashboard*
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
    - Description: Analyzed Revenue Trend, Revenue by Product, Discounts and Unit Sold and Profit Margin among others.
-   - <img width="1447" height="792" alt="Financial Data Dashboard" src="https://github.com/user-attachments/assets/657ade52-da7e-4285-9199-143367b2bd5d" />
+   -<img width="1474" height="819" alt="Financial Data Dashboard" src="https://github.com/user-attachments/assets/c2fd9559-901b-43c1-b0af-3223d713f877" />
+ 
 
 5. *Internet Usage Trend Dashboard*
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
