@@ -3,6 +3,27 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
 
 ## 🔹 Excel Dashboards
 1. *Adidas Sales Performance Dashboard*  
-   - Tools/Skills: Excel, Pivot Tables
-   - Description: Analyzed sales trend, product visibility, sales method and top retailers
-   - 
+   - Tools/Skills: Excel, Pivot Tables, Slicers 
+   - Description: Analyzed Sales Trend, Product Visibility, Sales Method and Top Retailer
+   - <img width="821" height="376" alt="Adidas Sales Dashboard" src="https://github.com/user-attachments/assets/a98d9f6f-22c8-4cdb-8b53-2dc414177a7d" />
+
+2. *Coca-Cola Sales Performance Dashboard*
+   - Tools/Skills: Excel, Pivot Tables, Slicers 
+   - Description: Analyzed Sales by Beverage, Sales by Retailer and Operating Profit and Margin By Quarter
+   - <img width="724" height="392" alt="Coca-Cola Sales Dashboard" src="https://github.com/user-attachments/assets/fd1a7ae1-a350-48d6-95aa-56fb35380200" />
+
+3. *Customer Churn Analysis Dashboard*
+   - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query 
+   - Description: Analyzed Overall Churn Rate, Competitots, Age Group Churn Rate and Reasons for Churn, among others. 
+   - <img width="931" height="416" alt="Customer Churn Analysis_Dashboard" src="https://github.com/user-attachments/assets/786583d2-49a4-40fe-b564-1434c38ec052" />
+  
+4. *Financial Report Dashboard*
+   - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
+   - Description: Analyzed Revenue Trend, Revenue by Product, Discounts and Unit Sold and Profit Margin among others.
+   - <img width="1447" height="792" alt="Financial Data Dashboard" src="https://github.com/user-attachments/assets/657ade52-da7e-4285-9199-143367b2bd5d" />
+
+5. *Internet Usage Trend Dashboard*
+   - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
+   - Description: Analyzed Internet Usage by Countries, Internet Usage and Average Income, Internet Usage and Literacy Rate
+   - <img width="805" height="390" alt="Internet Trends Dashboard" src="https://github.com/user-attachments/assets/4430cf81-4deb-4f74-99bf-bc81364ea325" />
+
