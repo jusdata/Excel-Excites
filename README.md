@@ -16,7 +16,6 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query 
    - Description: Analyzed Overall Churn Rate, Competitors, Age Group Churn Rate and Reasons for Churn, among others. 
  <img width="931" height="416" alt="Customer Churn Analysis_Dashboard" src="https://github.com/user-attachments/assets/786583d2-49a4-40fe-b564-1434c38ec052" />
- 
 ---
 4. *Financial Report Dashboard*
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
@@ -28,5 +27,12 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
    - Description: Analyzed Internet Usage by Countries, Internet Usage and Average Income, Internet Usage and Literacy Rate
  <img width="931" height="416" alt="image" src="https://github.com/user-attachments/assets/d500c0f5-7fc8-4a9d-87ce-bd5fb54a4bc4" />
+
+---
+6. *SPDR S&P 500 ETF Investment Dashboard*
+   - Tools/Skills: Excel, Pivot Tables, Pivot Charts, Excel's Stock feature and Stock History function
+   - Description: An Investment Dashboard that captures live stock data using Excel's stock feature and stock history function, with inteeractive navigation pane! 
+<img width="731" height="316" alt="image" src="https://github.com/user-attachments/assets/6aaeb990-c84d-463b-8f06-1a4ffd5e5d64" />
+
 
 
