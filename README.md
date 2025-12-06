@@ -31,7 +31,7 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
 ---
 6. *SPDR S&P 500 ETF Investment Dashboard*
    - Tools/Skills: Excel, Pivot Tables, Pivot Charts, Excel's Stock feature and Stock History function
-   - Description: An Investment Dashboard that captures live stock data using Excel's stock feature and stock history function, with inteeractive navigation pane! 
+   - Description: An Investment Dashboard that captures live stock data using Excel's stock feature and stock history function, with interactive navigation pane! 
 <img width="731" height="316" alt="image" src="https://github.com/user-attachments/assets/6aaeb990-c84d-463b-8f06-1a4ffd5e5d64" />
 
 
