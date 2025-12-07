@@ -16,6 +16,8 @@ Welcome to my **Excel Excites** Dashboards! Here I compile the different dashboa
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query 
    - Description: Analyzed Overall Churn Rate, Competitors, Age Group Churn Rate and Reasons for Churn, among others. 
  <img width="931" height="416" alt="Customer Churn Analysis_Dashboard" src="https://github.com/user-attachments/assets/786583d2-49a4-40fe-b564-1434c38ec052" />
+
+
 ---
 4. *Financial Report Dashboard*
    - Tools/Skills: Excel, Pivot Tables, Slicers, Power Query, Power Pivot 
