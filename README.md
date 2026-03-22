@@ -63,7 +63,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Slicers
 - **Description:** Analyzed Sales by Beverage, Sales by Retailer, and Operating Profit and Margin by Quarter.
-- **Insights:** Tracks sales by beverage brand, retailer performance, and quarterly operating profit and margin as primary KPIs. The dashboard supports profitability decisions by highlighting which beverages and retail partners deliver the highest margins, not just the highest revenue. A key insight is the divergence between high-volume beverages and high-margin ones, which can inform portfolio and pricing strategy.
+- **Insights:** Core KPIs for 2023 show total sales of $12,016,665 across 24,788,610 units sold at an average price of $0.45, generating an operating profit of $4,722,497 — representing a massive $7,169,200 YoY revenue increase from 2022's $2,423,733. Coca-Cola leads all beverage brands with $2,268,975 in 2023 sales, while FizzyCo dominates the retailer breakdown with the highest positive variance at $2,101,617, and the quarterly chart reveals a sharp sales and margin surge from Q4 2022 through Q3 2023 before a slight Q4 tapering. These trends suggest prioritizing inventory and promotions in Q1–Q3, deepening the FizzyCo retail partnership given its outsized growth, and exploring pricing strategies to improve margin beyond the current $0.45 average unit price.
 
     <img width="777" height="444" alt="Coca-Cola Sales Dashboard" src="https://github.com/user-attachments/assets/b6c01208-3211-4dcc-a807-0f57af8e8944" />
 
@@ -74,7 +74,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Slicers, Power Query
 - **Description:** Analyzed Overall Churn Rate, Competitors, Age Group Churn Rate and Reasons for Churn, among others.
-- **Insights:** Core KPIs include overall churn rate, churn by age group, competitor-driven churn, and the distribution of churn reasons. The dashboard equips retention teams to prioritize intervention strategies — whether through pricing adjustments, product improvements, or targeted outreach — based on the most impactful churn drivers. A notable pattern is the concentration of churn within specific age segments and competitor-switching behavior, suggesting that retention efforts would be most effective when tailored by demographic profile.
+- **Insights:** Core KPIs show 6,687 total customers with 1,796 churned at a 27% churn rate — with competitor activity being the dominant driver, as 37% of churned customers left for better offers and 38% for better devices, collectively accounting for the majority of churn reasons. The 65-and-above age bracket is the most at-risk segment at 38% of senior churn, less-than-5GB data users show the highest churn rate among all data tiers, and California leads state-level churn at a striking 75% — signaling where retention efforts are most urgently needed. To reduce churn, the data points to three clear action areas: improving device and offer competitiveness to counter the 75% competitor-driven churn, introducing loyalty or data upgrade incentives targeting low-data and senior segments, and prioritizing retention campaigns in high-churn states like California, Indiana, and New Hampshire.
 
     <img width="777" height="444" alt="Customer Churn Analysis_Dashboard" src="https://github.com/user-attachments/assets/d86941d6-492b-4676-aee3-e2163ef8cc46" />
 
