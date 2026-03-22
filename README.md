@@ -32,7 +32,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Power Pivot, DAX, Measures, Slicers
 - **Description:** Compared LeBron and MJ's statistical records, career accomplishments, winning percentage, and overall game productivity in the regular season.
-- **Insights:** Tracks key performance indicators including points per game, win percentage, career assists, and championship titles to enable a statistically grounded comparison between the two athletes. The dashboard supports the decision of contextualizing greatness across different eras by weighing regular season productivity against postseason impact. A notable pattern is the trade-off between MJ's superior winning percentage and LeBron's longevity-driven counting stats, revealing that "GOAT" status depends heavily on which KPIs are prioritized.
+- **Insights:** Key KPIs tracked include career PPG, APG, RPG, combined steals and blocks, winning percentage, and game score — where MJ leads in scoring (30.1 PPG vs LeBron's 27.1) and total stocks (3,407 vs 2,972), while LeBron counters with superior assists (7.4 APG vs 5.3) and rebounds (7.4 RPG vs 6.2). Both players are remarkably close in career winning percentage — LeBron at 66.3% and MJ at 65.9% — supporting decisions around how to weigh individual brilliance versus team contribution in the GOAT debate. A standout pattern in game score trends shows MJ consistently outperforming LeBron in his prime years (seasons 3–7), while LeBron sustains elite productivity well into his later seasons, illustrating two distinct but equally compelling models of greatness.
 
    <img width="777" height="444" alt="LBJ vs MJ " src="https://github.com/user-attachments/assets/276d20fe-e05c-455c-bdb2-be64481ffbaa" />
 
@@ -43,7 +43,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Power Pivot, DAX, Measures, Slicers
 - **Description:** Analyzed Sales Trend vs previous year, Sales by Location and Region, Product Category and Customer Segment.
-- **Insights:** Key KPIs include Year-over-Year sales growth, regional revenue contribution, and sales performance by product category and customer segment. The dashboard supports strategic decisions around inventory planning, regional expansion, and targeted marketing by surfacing which segments and locations drive the most value. A recurring pattern shows that certain regions consistently underperform relative to their market size, pointing to untapped growth opportunities.
+- **Insights:** Core KPIs include total revenue of $470.5K, total profit of $61.6K, 7,979 units sold across 1,038 orders, and an average discount of 15.6% — with revenue growing vs. the prior year across key metrics: profit up 24.4%, orders up 7.1%, and quantity up 5.2%. The Consumer segment dominates revenue at $266.5K (56.7% of total), while Technology leads in profit margin at 16.8% versus Furniture's slim 4.1% — making it the most profitable category despite not being the highest in volume. Geographically, California and New York alone account for 35.9% of total revenue, with the East region leading all regions at $156K — while the South lags at $71K, signaling a clear opportunity for regional growth.
 
    <img width="777" height="444" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/1ef68a37-f810-4a06-91bd-4432f74fdada" />
 
@@ -53,8 +53,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, DAX, Measures, Slicers
 - **Description:** Analyzed Sales Trend, Product Visibility, Sales Method and Top Retailer.
-- **Insights:** Monitors sales trends, product visibility, sales method breakdown (e.g., in-store vs. online), and top retailer contributions as core KPIs. This enables leadership to make data-driven decisions on channel investment and retailer prioritization. An interesting pattern emerges in the correlation between sales method and product category performance, suggesting that certain product lines are better suited to specific retail channels.
-
+- **Insights:** Core KPIs include total sales of $899.9M, total quantity sold of 2.48M units, total operating profit of $332.1M, and an overall average operating margin of 42.3%. West Gear leads all retailers with $243M in sales, followed by Foot Locker at $220M, while In-store dominates in total revenue at $356.6M compared to Online at $247.7M and Outlet at $295.6M. Men's Street Footwear is the top-selling product category at $208.8M, and July and August emerge as the peak sales months — signaling a strong mid-year demand pattern worth aligning inventory and marketing efforts around.
     <img width="666" height="444" alt="Adidas Sales Dash" src="https://github.com/user-attachments/assets/28f94dda-c278-450f-a561-cde716ee06c6" />
 
 
@@ -86,7 +85,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Slicers, Power Query, Power Pivot
 - **Description:** Analyzed Revenue Trend, Revenue by Product, Discounts and Unit Sold, and Profit Margin, among others.
-- **Insights:** Tracks revenue trends, product-level revenue, discount impact, units sold, and profit margin as key financial KPIs. The dashboard supports executive decision-making around pricing strategy, product portfolio optimization, and cost management. An interesting pattern is the inverse relationship between discount depth and profit margin across certain product lines, highlighting where promotional activity may be eroding profitability.
+- **Insights:** Key KPIs tracked include monthly sales, operating profit by month, and performance across products and customer segments — with total sales peaking notably in October and December, pointing to strong seasonal demand cycles. The Enterprise segment is a critical flag in the data — it generates significant revenue but operates at a negative average profit margin of -3.1%, meaning it is actively losing money despite high sales volume. The High discount band also shows the lowest average profit margin at 24.5% compared to 28.8% for Low discounts, suggesting that heavy discounting is measurably eroding profitability across segments.
 
   <img width="777" height="444" alt="Financial Data Dashboard" src="https://github.com/user-attachments/assets/bb60b419-5f78-4134-a7a1-22f89ab7a878" />
 
@@ -97,7 +96,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 
 - **Tools/Skills:** Excel, Pivot Tables, Slicers, Power Query, Power Pivot
 - **Description:** Analyzed Internet Usage by Countries, Internet Usage and Average Income, Internet Usage and Literacy Rate.
-- **Insights:** Key KPIs include internet penetration rate by country, the relationship between average income and internet usage, and the correlation between literacy rate and connectivity. The dashboard supports policy and investment decisions by identifying countries where infrastructure gaps present the greatest opportunity for digital inclusion. A clear pattern emerges showing that literacy rate is a stronger predictor of internet adoption than income alone in several regions, which has implications for prioritizing education alongside connectivity programs.
+- **Insights:** Core KPIs include internet penetration rates by continent across 2000, 2005, 2010, 2020, and 2022 — with Europe leading at 88.4% penetration in 2022, while Africa lags significantly at 47.2% despite a notable jump from just 0.8% in 2000. The dashboard supports policy and investment decisions by surfacing the stark digital divide between continents, with the top early adopters in 2005 — Iceland (87%), Sweden (84.8%), and Denmark (82.7%) — maintaining their lead through to 2022. A compelling pattern is Africa's steep acceleration between 2010 and 2020 (8.6% to 38.3%), suggesting that mobile-driven connectivity is rapidly closing the gap, though significant ground remains.
 
    <img width="777" height="444" alt="Internet Trends Dashboard" src="https://github.com/user-attachments/assets/25daa907-9edb-4353-9a00-40e3cb8622a1" />
 
