@@ -109,7 +109,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 - **Description:** An Investment Dashboard that captures live stock data using Excel's stock feature and stock history function, with an interactive navigation pane.
 - **Insights:** Core KPIs include live ETF price, historical price trend, volume, and return performance over selectable time periods. The dashboard supports personal investment decision-making by enabling users to monitor market momentum and assess entry/exit timing through dynamic, real-time data. A standout feature is the use of Excel's native Stock and STOCKHISTORY functions, demonstrating that sophisticated investment tracking is achievable without third-party tools.
 
-   <img width="777" height="666" alt="image" src="https://github.com/user-attachments/assets/a25b9c35-230b-4b1f-9689-1e3d108ce3cf" />
+   <img width="777" height="555" alt="image" src="https://github.com/user-attachments/assets/a25b9c35-230b-4b1f-9689-1e3d108ce3cf" />
 
 
 
