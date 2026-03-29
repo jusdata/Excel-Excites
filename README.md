@@ -45,7 +45,8 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 - **Description:** Analyzed Sales Trend vs previous year, Sales by Location and Region, Product Category and Customer Segment.
 - **Insights:** Core KPIs include total revenue of $470.5K, total profit of $61.6K, 7,979 units sold across 1,038 orders, and an average discount of 15.6% — with revenue growing vs. the prior year across key metrics: profit up 24.4%, orders up 7.1%, and quantity up 5.2%. The Consumer segment dominates revenue at $266.5K (56.7% of total), while Technology leads in profit margin at 16.8% versus Furniture's slim 4.1% — making it the most profitable category despite not being the highest in volume. Geographically, California and New York alone account for 35.9% of total revenue, with the East region leading all regions at $156K — while the South lags at $71K, signaling a clear opportunity for regional growth.
 
-   <img width="777" height="444" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/1ef68a37-f810-4a06-91bd-4432f74fdada" />
+  <img width="777" height="444" alt="image" src="https://github.com/user-attachments/assets/cd517460-09f6-40a9-ad26-814cca0127a7" />
+
 
 ---
 
@@ -108,7 +109,7 @@ I'm **Justine D. Borja**, a results-driven Data Analyst with 2+ years of experie
 - **Description:** An Investment Dashboard that captures live stock data using Excel's stock feature and stock history function, with an interactive navigation pane.
 - **Insights:** Core KPIs include live ETF price, historical price trend, volume, and return performance over selectable time periods. The dashboard supports personal investment decision-making by enabling users to monitor market momentum and assess entry/exit timing through dynamic, real-time data. A standout feature is the use of Excel's native Stock and STOCKHISTORY functions, demonstrating that sophisticated investment tracking is achievable without third-party tools.
 
-   <img width="777" height="666" alt="image" src="https://github.com/user-attachments/assets/9eac6b66-8c15-4efe-afa5-1bd4bab3df23" />
+   <img width="777" height="666" alt="image" src="https://github.com/user-attachments/assets/a779592f-e072-4293-8680-114ea525b1a6" />
 
 
 ---
